@@ -1,7 +1,14 @@
-export default function App() {
+import "./App.css";
+
+const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+
+    </link>
+
+    <div className="flex">
+      <div className="h-screen">SideBar
+        
+      </div>
+    </div>
   )
 }
